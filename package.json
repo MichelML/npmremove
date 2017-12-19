@@ -1,6 +1,6 @@
 {
   "name": "npmremove",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rm node_modules quickly",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,7 @@
   "devDependencies": {
     "shelljs": "^0.7.8"
   },
-  "bin": { "npmremove": "node index.js" }
+  "bin": {
+    "npmremove": "node index.js"
+  }
 }
