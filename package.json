@@ -12,6 +12,6 @@
     "shelljs": "^0.7.8"
   },
   "bin": {
-    "npmremove": "node index.js"
+    "npmremove": "index.js"
   }
 }
