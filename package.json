@@ -1,6 +1,6 @@
 {
   "name": "npmremove",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "rm node_modules quickly",
   "main": "index.js",
   "scripts": {
