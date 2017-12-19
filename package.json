@@ -1,0 +1,15 @@
+{
+  "name": "npmremove",
+  "version": "1.0.0",
+  "description": "rm node_modules quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'implement it'"
+  },
+  "author": "Michel Moreau",
+  "license": "MIT",
+  "devDependencies": {
+    "shelljs": "^0.7.8"
+  },
+  "bin": { "npmremove": "node index.js" }
+}
